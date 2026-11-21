@@ -1,0 +1,6 @@
+- [Главная](/)
+- [Услуги и цены](services/)
+  - [Стрижки](services/haircuts/)
+  - [Бритьё](services/shaving/)
+- [Как записаться](booking/)
+- [Частые вопросы](faq/)
