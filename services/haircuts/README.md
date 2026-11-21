@@ -4,9 +4,9 @@
 
 ## Примеры работ
 
-![Пример мужской стрижки](../../images/haircut1.jpg)
+![Пример стрижки](https://MariaBaranova358.github.io/barbershop-docs/images/haircut1.jpg)
 
-![Пример стрижки с бородой](../../images/haircut2.jpg)
+![Пример стрижки](https://MariaBaranova358.github.io/barbershop-docs/images/haircut.jpg)
 
 ## Популярные стрижки
 
