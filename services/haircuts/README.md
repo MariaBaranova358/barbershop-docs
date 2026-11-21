@@ -6,7 +6,7 @@
 
 ![Пример стрижки](https://MariaBaranova358.github.io/barbershop-docs/images/haircut1.jpg)
 
-![Пример стрижки](https://MariaBaranova358.github.io/barbershop-docs/images/haircut.jpg)
+![Пример стрижки](https://MariaBaranova358.github.io/barbershop-docs/images/haircut2.jpg)
 
 ## Популярные стрижки
 

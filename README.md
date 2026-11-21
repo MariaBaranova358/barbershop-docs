@@ -3,7 +3,7 @@
 > Добро пожаловать в документацию нашего барбершопа.  
 > Здесь вы найдёте всё, что нужно для комфортного визита.
 
-![Логотип](https://MariaBaranova358.github.io/barbershop-docs/images/logo.png)
+![Логотип](https://MariaBaranova358.github.io/barbershop-docs/images/logo.jpg)
 
 ## О нас
 
